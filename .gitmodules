@@ -4,3 +4,6 @@
 [submodule "homework-2-s25-xinyuJames"]
 	path = homework-2-s25-xinyuJames
 	url = https://github.com/ECEDataScience/homework-2-s25-xinyuJames.git
+[submodule "homework-3-s25-xinyuJames"]
+	path = homework-3-s25-xinyuJames
+	url = https://github.com/ECEDataScience/homework-3-s25-xinyuJames.git
