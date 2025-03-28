@@ -16,3 +16,9 @@
 [submodule "homework-6-s25-xinyuJames"]
 	path = homework-6-s25-xinyuJames
 	url = https://github.com/ECEDataScience/homework-6-s25-xinyuJames.git
+[submodule "homework-7-s25-xinyuJames"]
+	path = homework-7-s25-xinyuJames
+	url = https://github.com/ECEDataScience/homework-7-s25-xinyuJames.git
+[submodule "homework-8-s25-xinyuJames"]
+	path = homework-8-s25-xinyuJames
+	url = https://github.com/ECEDataScience/homework-8-s25-xinyuJames.git
