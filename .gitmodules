@@ -28,6 +28,6 @@
 [submodule "homework-10-s25-xinyuJames"]
 	path = homework-10-s25-xinyuJames
 	url = https://github.com/ECEDataScience/homework-10-s25-xinyuJames.git
-[submodule "project-s25-xinyuJames"]
-	path = project-s25-xinyuJames
-	url = https://github.com/ECEDataScience/project-s25-xinyuJames.git
+[submodule "Data-Security-in-Model-Training"]
+	path = Data-Security-in-Model-Training
+	url = https://github.com/Ivorchu/Data-Security-in-Model-Training.git
